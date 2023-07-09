@@ -1,0 +1,20 @@
+22829, INERTIA
+22648, Robotic Raiders
+19461, MDR Epsilon
+16031, PARABELLUM
+19995, Eclipse
+18799, Clean-Up Crew Robotics
+18589, St. Pat's Celtic Silverfish
+16448, A.I.M. Bot Robotics
+20266, Prince of Wales Engineering and Robotics 
+14316, MDR Entradox
+20174, MDR Maximum Entropy
+22111, Matheson Mecha Mustangs
+16503, MDR QED Robotics
+16205, Lightning Bots
+16267, Forces Unknown
+18841, KSS ONE
+19443, MDR Valkyrie
+22817, Killarney Robotics Team 2
+16504, MDR Dynaco
+15639, MDR Cheeze Blox

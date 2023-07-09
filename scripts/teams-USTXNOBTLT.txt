@@ -1,0 +1,34 @@
+11030, Metal Jackets
+4745, Grand Tech Automation
+18270, RoboPlayers
+15226, Salamancas
+11978, Ca1cu1at3d Chaos
+8291, Bulldog Robotics
+9161, Overload
+21921, GEARS Buccaneers
+20325, Maximum Resistance
+9054, Viridian Robotics
+21330, The Marvels of Tomorrow
+20039, 1 Byte @-a-Time
+16012, Blazing Bots
+16412, Triad Robotics
+20051, Code Red
+18327, Wheat Squad
+21533, Keller Fusion FTC
+21607, Kcalians
+13657, Satellite Squad
+13811, High Voltage
+14445, Poseidons
+9045, Motorhead
+13472, The Dork Side
+4705, Adamas Robotics
+18072, BCS Battery Acid
+20313, Mustang Robotics
+16802, Hollibots
+17658, Wildcat Robotics
+18227, Area 52
+20040, Work In Progress
+18310, Smith Squad
+6566, Circuit Breakers
+6169, System Surfers
+22539, Trial and Error

@@ -1,0 +1,18 @@
+20696, Uxbridge Robotics
+8644, The Brainstormers
+20290, Boston Basketbots
+15643, The 'Rock Bots
+11723, Canton GearHounds
+22618, MS Robotics Artemis
+10560, Robo Hawks
+6040, Canton Robodogs
+8379, The Parity Bits
+10331, ARC Hailstorm 
+12956, Lakerbots
+13848, The 'Rock Bots 2.0
+14864, Wilmington Wired WildCats, WWW
+16921, MS Wildcats Apollo
+4029, 2 Bits and a Byte
+4410, ARC Lightning
+14666, Inverse Polarity FTC
+5273, ARC Thunder

@@ -1,0 +1,35 @@
+18996, S.T.A.T.I.C.
+18477, BIGBRAINBOTS
+6390, Falcons
+20096, The Sentinels
+15008, The Eclipse
+21494, Solstice Robotics
+16270, Gaelstrom
+21975, Energetic Engineers
+19670, Turtles Robotics
+21937, Proboscis Monkey
+5709, Gators
+18792, Penguins Robotics 
+18442, Gear Rotation
+17477, Kettle 2 the Mettle
+21497, Tigers Robotics
+8194, Digi-Gators
+17394, Howard Robotics
+7393, electron Volts
+12718, Lions 
+2818, G-FORCE
+14253, Magic School Bots
+9338, Lightning Coalition Robotics
+20124, Epsilon
+4991, Gear Freaks
+20257, The Team That Shall Not Be Named
+8479, RoboCavs Gold
+21524, Dolphins Robotics
+11500, St. Mark Robotics
+15308, FAIRY TAIL
+607, Dragon Slayers
+10719, Termigators
+16922, The Queen Bees
+19069, Ryken Robotics
+10001, RoboCavs Silver
+21496, Comet Robotics

@@ -1,0 +1,24 @@
+4267, RoboChix
+20058, Upskill
+20293, Laser Bots
+20256, Greendale Robotics:  Storm
+265, Viking Robotics 
+18339, Super Servos
+19367, Greendale Robotics:  ALIEN
+8823, Mariner Mayhem
+11570, Étude Engineers
+15266, Kohler Robotics
+17223, Oxidizers
+10760, TBD
+6914, Charging Chaos
+4116, Volta Robotics
+22355, The Metal Manipulators
+21923, Greendale Robotics:  Neptune
+21355, Turtle TEK
+18740, The Ghost Monkeys
+16956, The TechCrew
+10824, Tesla Trojans
+19417, Superstellar
+9224, Techno G.O.A.T.S.
+21180, Error 418
+15382, I'm Not A Robot

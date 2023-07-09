@@ -1,0 +1,15 @@
+16971, TiGears(CLC Robotics)
+6200, Despicable Machine 
+5199, Duct Tape and a Prayer
+6198, Bread Admirers
+17023, Swamp Bots (CLS Robotics)
+6199, Crash Test Dummies
+8907, Blue Box Bots
+16033, Robo Wolves
+18255, Stealth Robotics
+5037, got robot?
+12682, The Golden Ratio
+13193, Code Blue
+15321, Green Machine (CLS Robotics)
+19575, HCA Lions
+22139, Golden Gators (CLS Robotics)

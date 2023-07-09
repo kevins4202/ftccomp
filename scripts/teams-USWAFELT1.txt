@@ -1,0 +1,25 @@
+22152, Smelt
+7759, Autonomous Prime
+13648, Jankbot
+22318, Iron Robots
+14179, Sushi Squad
+17610, OCEAN FTC
+18225, High Definition 
+9330, NeoBots One
+11487, Gadget Gryphons
+7198, Mechanical Minks
+16864, Evergreen FTC
+22153, Xero
+11970, Titanium Talons 
+19745, Turtle Walkers
+15117, Olympic Dragons
+20345, Kobalt Klaws
+21229, Quality Control
+21312, NMS Volt Beasts
+21301, Electric Wolves
+7676, Whidbey Island Wildcats
+19834, NMS Cybernetic Narwhals
+18282, Wires2Spark
+7760, Mishap
+21370, Built-Different
+22196, Whidbey Island Wildcats B

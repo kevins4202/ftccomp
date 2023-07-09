@@ -1,0 +1,26 @@
+7854, MidKnight Madness
+13190, Roblivion
+16026, Alphabots
+19862, Mecha Mantises
+20326, RMS Khrysaor
+20383, RMS Yetis
+18373, Blizzard Robotics
+20367, RMS Cerberus
+19505, TerraRise
+14525, TerraBats
+15385, MidKnight Mayhem
+8404, Quixilver 
+11311, Paragon
+12492, Blender Bots
+7390, MSET JellyFish
+14473, Future
+20370, RMS Phoenix
+20366, RMS Werewolves
+22040, Allstars R2 Robotics
+7641, MSET BettaFish
+20368, RMS Thunderbirds
+21534, The Craft and the Curious
+21781, Mecha-lions
+20405, RMS Hydra
+12516, Summit Robotics 
+13356, RoboForce

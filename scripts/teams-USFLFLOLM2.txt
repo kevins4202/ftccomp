@@ -1,0 +1,15 @@
+17288, Rubber Bandits
+5070, N.U.T.S.
+10650, Hazmat Robotics Biohazards
+22012, OSS Loose Screws
+21527, TechnoSaints C
+9800, TechnoSaints A
+21528, TechnoSaints B
+21510, Ducks of the Round Table
+21440, Fried Circuits
+9277, Hazmat Robotics Explosives
+9930, Robo-Knights
+16249, Excaliper
+20344, Cattlebots 
+17305, Ducks in a Row
+15065, A Byte Irrational

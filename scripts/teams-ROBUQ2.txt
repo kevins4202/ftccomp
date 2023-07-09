@@ -1,0 +1,76 @@
+17532, Centered Robotics
+18338, StarTech
+17855, Vortex Breakers
+19091, The Resistance
+11808, Connection
+19055, TITANS
+19103, Kronbot
+20985, Wafy 
+9662, Apollo
+14278, Xeo
+15966, Esentza Revolution
+17860, Helix
+15972, TehnoZ
+17243, Vianu Legends
+17875, Code Warriors
+19077, Robocadet
+19082, RoboAS
+17844, RUBIX
+19086, Robocorns RO004
+19054, NeuroBotix
+19109, RaSky
+19342, Clever Core
+12632, Transilvania Robotix
+17870, PERPETUUM MOBILE
+18160, 4D-Robotics
+19072, TehnoZ Junior
+19073, The Emperor RO124
+19134, Rodac
+19120, AlphaBit
+19094, WizzTech
+12560, Soft Hoarders
+15975, ROBOTX HUNEDOARA
+19292, TeamPhoenix
+17089, Powered by Redstone
+20043, SNGine
+19056, PrimeTech
+17881, RiverWolves
+19176, Broboti
+19071, SmartCluster
+16166, Watt'S Up
+19099, H-tech
+20135, MeeralRobotics
+19065, Inorog Team RO 152
+19151, TECHNO-MAISTER
+15965, Esentza Robotics
+14277, QUBE.
+19062, Phantom Robotics
+19110, R0B0SMART
+21033, HYPE
+19079, PHOENIX
+19061, Boogeybots
+20265, Heart of RoBots
+15989, RoboTitans
+19104, CyberPunk Robotics
+19053, Homosapiens
+20732, ATLAS_CNB_192
+19242, RO169 RoboPeda
+19115, B-RoboTeam RO 064
+19074, Extropy
+19117, Robo-Sapiens
+19076, RoboticsTrav
+19049, HighFive Robotics
+17871, Thobor RO 068
+21031, roLERbot
+19111, TITUR0B0
+19119, InfotronX
+19128, RoboDac Dacia
+20329, TechnoGods
+19116, VV Robots
+19047, RavenTech_HD
+19063, UnderConstruction
+19102, TheArchitechs
+17624, IGNITE.
+19246, Cybersouls
+17965, BOLTS AND GEARS
+19097, Quasar.Robotics

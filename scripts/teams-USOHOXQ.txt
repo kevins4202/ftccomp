@@ -1,0 +1,23 @@
+10851, WASA
+14365, Summit Knights
+22564, The Talawanda Tubers
+16414, Hot Cup of Java
+4537, DRSS Enterprise
+12056, Aves Ablaze
+6085, Electro/Mechanically Controlled Chaos
+3311, Innovators Robotics
+7136, Higgs Bosons
+16749, Thunder Bolts
+18275, SubZero
+16892, ENVISION: The Electric Warriors
+4969, Robot-X
+5040, Nuts & Bolts
+6133, The "NUTS!"
+10084, Team Calamari
+16449, Juniper Robotics
+20322, Big Blue Bytes
+8719, Quantum Leap
+9952, CHCA Beak Squad 7-8
+12768, INNOV-8
+21874, DRSS Discovery
+20104, (INSERT_NAME_HERE)

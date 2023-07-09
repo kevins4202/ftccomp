@@ -1,0 +1,12 @@
+6387, Brobots
+406, Boulson's Revenge
+7951, The KAONS
+10588, The LUXONS
+5095, The LEPTONS
+10106, CBC Robotics
+5439, The GLUONS
+18118, Mindstorm Troopers
+5248, The FERMIONS
+11203, DURT (DeSmet Ultimate Robotics Team)
+3505, Cadet Bot Crew
+5119, The BARYONS

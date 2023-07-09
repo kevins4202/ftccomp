@@ -1,0 +1,20 @@
+14374, Dark Matter
+19137, CyberGriffs
+18624, Designosaurs
+18280, Knights Robotics 1
+21373, Knights Robotics 2
+11200, Phenomena
+22491, Cubotics Orion
+14664, Squire Squad
+16302, VAL Eagle Robotics Tech Team
+18658, Purple Rain
+13017, Event Horizon
+14901, Cubotics Callisto
+21590, Cajun Robotics
+18393, Captcha Crew 
+21602, Les Garoux mechanics 1 
+9661, Steel Sirens
+21821, SciPort Sci-bots
+16553, Java Like it's Hot
+10703, Cyclones
+8647, Super Cell

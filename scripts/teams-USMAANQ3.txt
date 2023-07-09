@@ -1,0 +1,19 @@
+20748, Nobles
+4096, T-10   ("T minus Ten")
+19397, Soli Deo Gloria
+21332, Cardinal Coders
+16921, MS Wildcats Apollo
+21968, The Marvels of Worcester
+11723, Canton GearHounds
+8227, Enginuity
+16021, Techno Maniacs 
+5897, HackHers
+14864, Wilmington Wired WildCats, WWW
+11359, Technicality
+9006, Austin Prep Crusaders
+22618, MS Robotics Artemis
+9326, Liquid Oxygen
+17142, St Bernard's
+15626, A Perplexing Solution
+21236, Gator Growbotics
+22070, PARC Acadia

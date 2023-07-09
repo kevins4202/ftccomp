@@ -1,0 +1,30 @@
+17802, Logic No Tech
+11030, Metal Jackets
+11472, RavenClaw Robotics
+8130, Vikings
+12927, Shepton High Stallioneers
+14523, Free of Charge
+13072, Fellowship of the Robot
+9626, Hockabots
+9161, Overload
+12900, Quantum Claw
+20325, Maximum Resistance
+9054, Viridian Robotics
+21330, The Marvels of Tomorrow
+20039, 1 Byte @-a-Time
+21462, Data Not Found
+22703, Tech Titans
+16412, Triad Robotics
+22123, Stallion Robotics
+12977, Rust In Peace
+15524, Cardinalbots
+13811, High Voltage
+14524, PESH Bots
+10143, Aero
+18072, BCS Battery Acid
+12926, Panther Robotics
+20313, Mustang Robotics
+16802, Hollibots
+17658, Wildcat Robotics
+18798, Crystal Dragons
+6566, Circuit Breakers

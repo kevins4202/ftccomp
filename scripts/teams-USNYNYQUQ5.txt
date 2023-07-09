@@ -1,0 +1,28 @@
+19426, QHSS Cardinal Robotics
+22781, Botics
+22785, Hytex
+22262, Cyber Crusaders
+10639, ArgoKnights
+22782, Starlight
+20701, Team Lovelace
+21690, Power Up
+4784, Tetricons
+22166, Main Street Boulders
+4783, Dynamic
+4785, Anonymous Autonomous
+14712, Ruckus Robotics
+4782, The Super Troublemakers
+13029, RoboSabers
+479, Stuy Fusion
+15580, Robo-Synthesis
+10539, Ultro
+12282, Cyberdogs
+16622, KIPPNYC Bulldogs
+11943, The Nighthawks
+14156, Packer Robotics
+22335, Polymorphism 
+22783, Mechanical Beasts
+22784, BXBaby
+14734, Envirobots
+17253, Ulterior Motive
+310, Stuy Fission

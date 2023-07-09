@@ -1,0 +1,26 @@
+8395, The A-Team
+12096, Absolute Zero
+19941, M&M (Metal Masterminds).exe
+19458, Equilibrium.exe 
+12518, Almond Robotics
+14607, Robot Uprising
+21774, Supernova.exe
+10001, RoboCavs Silver
+15167, Robo Troopers
+7, Tactical Sheep
+194, ILITE - Ingenuity
+16605, YogicTransformers
+16439, AlphaGo
+14575, Capital Bots
+12838, Lancaster Kinetic Storm
+18264, TheElectronovas
+8393, The Giant Diencephalic BrainSTEM Robotics Team
+8702, Innovotics
+15304, CircuiTree
+19890, Distractors.exe
+965, The League of Incompetent Gentlemen
+18442, Gear Rotation
+17774, Monroe Robotics
+21232, no team
+9064, Firefly
+3749, while(e()) {coyotes()}

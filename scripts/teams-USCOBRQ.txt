@@ -1,0 +1,26 @@
+7172, Technical Difficulties
+20514, CyberKnights
+17302, Max Resistance
+22250, Knightbots
+21430, BroomBots
+14659, Pleiades Robotics
+15379, LionTech
+11260, Up-A-Creek Robotics 
+4104, Robo Lobo
+18099, G-R Overdrive
+14953, Ridgeview Hoplites II
+15677, ctrl+z
+21618, Circuit Breakers 4-H Robotics
+3746, NECO Robo Knights
+16379, KookyBotz
+17973, Techno Trees
+22399, Cyber Samosas
+15689, Cyborg Rubber Ducks
+15755, Conductivity
+21229, Quality Control
+8969, Custom Settings
+10448, Mach 5
+13022, Ridgeview Hoplites
+17153, Squid Squad
+6382, Wrench Monkeys
+5115, Rogue Resistors

@@ -1,0 +1,18 @@
+20696, Uxbridge Robotics
+20290, Boston Basketbots
+15643, The 'Rock Bots
+19411, Tech Tigers
+17195, Doofenschmirtz Inc
+20340, Space Astros
+4466, R.A.B.B.I.
+18524, Excalibur
+18925, Hivemind
+11460, Sliced Breadboards
+8379, The Parity Bits
+13848, The 'Rock Bots 2.0
+15089, Circuit Breakers
+16369, fulL-Tilt
+16368, Mountain Doers
+4029, 2 Bits and a Byte
+12566, AZTECHS
+14666, Inverse Polarity FTC

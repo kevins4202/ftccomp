@@ -1,0 +1,23 @@
+21856, J-Bots
+5891, Redneck Engineering
+19428, Purple People Eaters
+17251, Divide & Conquer
+22329, Westernators
+17511, Irons Team 2
+15592, T-Force
+17461, Trial & Error
+4921, The Dropouts
+4895, The Dueling Westerners	
+12366, Houndbot
+4894, Waggish Walen's Western Warblers	
+22836, WILDCAT_ROBOTICS
+10676, Lady Warbots
+13788, Talkington Tinies
+21985, Throckmorton Greyhounds
+18990, Irons Team 4
+18318, Matador Robotics
+4859, Westerner Mechnoblades
+19432, The Bobs
+17512, Irons Team 1
+19433, Astros in the Ocean
+13825, Westerner Cobots	

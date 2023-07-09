@@ -1,0 +1,13 @@
+12362, Tractor Technicians in Training (Blue)
+15411, Tractor Technicians in Training (Purple)
+21491, LMS HackerHawks
+13667, Tractor Technicians in Training (Yellow)
+14018, Mountie Blackbot
+9297, Tractor Technicians in Training (Red)
+15119, Area 51
+15120, Team AI
+15191, Tractor Technicians in Training (Gray)
+21537, Sneaky Suspicion
+8492, Titanium Trojans
+8142, Mountie Redbot
+13666, Tractor Technicians in Training (Orange)

@@ -1,0 +1,13 @@
+8695, Tri Hards
+12168, Plainsmen Robotics
+13415, Electric Storm
+5143, Xcentrics
+15050, Lightning Bots
+9925, Delta Robotics
+9215, Team Talos
+5153, R.O.A.R (Robots on a Rampage)
+6189, High Voltage
+22064, ThunderBots
+4156, RoboCats Red
+7130, Royal Robots
+3788, C.A.T. S (Chaos Applied to Science)

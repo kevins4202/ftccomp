@@ -1,0 +1,36 @@
+5196, Robo Yetis
+11308, YISE
+13271, Cowboy Code   "Redneck Robotics"
+5899, L.A.S.E.R.
+13835, Enigma
+11561, The Headless Horsemen
+18211, The CMS Office Supplies
+21430, BroomBots
+20771, Bearbotics Sigma
+17969, MECH
+11260, Up-A-Creek Robotics 
+14953, Ridgeview Hoplites II
+15289, EGMS Gadgetron
+3479, Generals
+15677, ctrl+z
+21618, Circuit Breakers 4-H Robotics
+17300, MPHS TerraMech
+18793, Mechanical Masters
+17973, Techno Trees
+15403, Vision Robotics
+16222, Thunderbots FTC
+22399, Cyber Samosas
+17190, MPHS Mechanical Unicorns
+15689, Cyborg Rubber Ducks
+8969, Custom Settings
+19970, Bearbotics Beta
+13022, Ridgeview Hoplites
+19541, Bearbotics Alpha
+16253, BEAST Robotics
+16292, Mike's Dream
+22579, Space Alpacas
+22436, Hulstrom All Stars #1
+17153, Squid Squad
+17483, Blackout
+13879, EGMS Metal Minds
+19942, Rusty Ducks Robotics

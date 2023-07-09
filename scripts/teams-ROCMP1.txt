@@ -1,0 +1,76 @@
+17855, Vortex Breakers
+19095, WireImpulse
+19088, BROBOTS
+19055, TITANS
+19103, Kronbot
+20985, Wafy 
+14278, Xeo
+15966, Esentza Revolution
+17243, Vianu Legends
+17860, Helix
+15972, TehnoZ
+19066, AiCitizensRO160
+19211, VirtualWolvesRO165
+19342, Clever Core
+19109, RaSky
+17844, RUBIX
+15993, infO(1)Robotics
+19086, Robocorns RO004
+21028, The Eagles RO143
+19098, Eastern Foxes
+12632, Transilvania Robotix
+17870, PERPETUUM MOBILE
+18160, 4D-Robotics
+17857, Gentlemen
+22017, Eu codez
+19120, AlphaBit
+20974, Hardwired
+17713, Delta Force
+19048, ROBOPAPIU
+12560, Soft Hoarders
+14270, Quantum Robotics
+19067, BIONIC ROYALS
+19093, Infinity Bolts 
+19105, DecebalTech
+20043, SNGine
+19083, North East Dynamics
+19176, Broboti
+20691, Andromeda
+19071, SmartCluster
+16166, Watt'S Up
+19099, H-tech
+19151, TECHNO-MAISTER
+14277, QUBE.
+19062, Phantom Robotics
+19234, BYTE FORCE
+19079, PHOENIX
+17861, CSH
+19061, Boogeybots
+19104, CyberPunk Robotics
+19053, Homosapiens
+21071, SkyLine
+17869, ERcast2020
+19115, B-RoboTeam RO 064
+21455, RoSophia
+19074, Extropy
+20912, Harambe Cartel
+19121, Tea Borgs
+16000, Gear Maniacs
+15996, BrickBot
+19068, ABSO-TECH
+5843, AutoVortex
+19049, HighFive Robotics
+17871, Thobor RO 068
+17873, VECTRON
+19096, DanubeRobotics
+19101, Tech-X
+21972, LTASrob
+19141, BraveBots
+19044, Peppers
+19116, VV Robots
+19106, Dark Energy
+19063, UnderConstruction
+17624, IGNITE.
+19075, Clockworks
+17962, Ro2D2
+21097, Dragonfly

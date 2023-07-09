@@ -1,0 +1,17 @@
+21813, Pro2type
+22332, Trojan Robotics
+20336, Beep Beep Bunch
+12167, Husky Robotics
+9511, Low Voltage
+21978, Knight Bytes
+19991, Chuckleheads
+22038, CaptainTech
+8130, Vikings
+19990, Marcus de-TECH-tives
+22674, Metal Manipulators
+21327, Java Nauts
+21474, SynTech
+16407, R.A.M Robotics (FTC)
+21965, Mainframe
+22201, TechieTurtles22
+21870, Pro Pythons

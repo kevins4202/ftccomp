@@ -1,0 +1,23 @@
+19472, Gryphon Green
+22034, Packbot
+22732, EdBears 
+22035, Tundra
+22075, R.G.B.
+18846, Brebotics
+19531, Radiant Robotics
+22151, Northview Robotics
+18158, The Futuristics
+21319, Falcon
+19490, SMT Titans - The 'Tita'BOTS
+19474, Gryphon Gold
+19491, Masked Gator
+21908, Eagle
+22101, Lambs Robotics
+20035, Cyber Barons
+16418, Crestwood Tech Lions
+16488, Rams Robotics
+18433, MakeShift Tech
+19530, The Thunderbirds
+22150, Northview Robotics
+22543, Split Bot  
+16366, TFS Robotic Unicorns

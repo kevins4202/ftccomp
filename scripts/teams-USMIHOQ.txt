@@ -1,0 +1,36 @@
+10538, Team KILTS
+5960, Iron Dams
+10180, BrainSTEM
+14015, MC Hammers
+22420, Scranton TechnoPups Gray
+7238, Blue and White Lightning Strikes
+21615, Rocket Robotics
+15465, Team KRASH
+7643, Tiger Tech Orange
+5386, Fabricators
+9020, iCreek
+13106, Walnut Creek RoboHawks
+19561, Tiger Tech Black
+7031, Battle Blazers
+13748, Nerds United
+8646, Team KAOS
+9933, Blazin' Turtles
+21914, Team KARMA
+10805, MicroCreek
+14670, TerrorBytes
+11244, ELITE FROGS
+20512, Irondogs
+10035, Robo Rangers
+19925, Techno Titans
+21672, More Fabricators
+15229, Team KUDOS
+17104, Scranton TechnoPups Black
+8533, CSA MS Miners
+21453, Robotics Ribbiters
+15358, BalaBots
+16668, 4-Gear Clovers
+17064, PICkle Robotics
+15447, Scranton TechnoPups Orange
+20142, Walnut Creek CyberHawks
+20511, Bionic Bulldogs
+16714, Dread Bolts

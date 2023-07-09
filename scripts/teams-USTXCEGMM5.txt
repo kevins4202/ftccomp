@@ -1,0 +1,16 @@
+14363, CPHS ROBOLOBOS WHITE
+18884, Westwood Boomerang
+16525, SkyRise Robotics
+19853, Roboteers
+6990, Static Void
+14361, CPHS ROBOLOBOS GREEN
+11503, ViperBots HyperFang
+12596, ViperBots Copperhead
+21323, TrinityBots
+21432, Short Circuits
+19591, Some Assembly Required
+12670, Eclipse 12670
+17315, Westwood Tomahawk
+4546, ViperBots SnakeByte
+18886, Westwood Atlatl
+22394, Rouse Radians

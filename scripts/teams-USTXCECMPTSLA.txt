@@ -1,0 +1,36 @@
+12448, M.A.R.S. - Patriot Engineering
+19567, Tier1
+4886, Robo Junkies
+19991, Chuckleheads
+20716, BeauBots
+13755, Robocat
+12791, Iterative Intentions
+8284, Soap Dispenser
+9045, Motorhead
+16458, TechnoWizards
+21438, Chaotic Current
+3708, Iron Eagles Optimus
+6299, ViperBots QuadX
+5470, Montwood Rambotics
+13265, Osiris
+13590, Viperstrike
+16617, Nazareth Robotics
+18483, Buckar00s
+19502, The Moment Makers
+12313, Hotdawgs
+19947, Nano Trojans
+19564, The Marvels of MAS
+12978, CCHS Panther Robotics
+22320, ROGUE-RANGERS Vengeance
+12928, LightSaders
+18227, Area 52
+12393, Pioneer Pi-Thons
+16597, Fulminata
+20394, Mustangs2.0
+21962, Raging Cy-Bots
+10676, Lady Warbots
+16272, Mark X
+7172, Technical Difficulties
+13948, Cathedral Robotics
+12977, Rust In Peace
+12596, ViperBots Copperhead

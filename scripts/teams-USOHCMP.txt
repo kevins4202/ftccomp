@@ -1,0 +1,37 @@
+10851, WASA
+14365, Summit Knights
+17978, Robo Kai (Fenwick)
+19778, Wire Monkeys
+18386, Parallax Robotics
+4537, DRSS Enterprise
+21865, Fe2O3
+6418, NDCL Robotics
+22523, CL0VERLEAF R0B0TICS
+10237, US Robotics
+8120, Electric Hornets
+5501, VW Robotics
+7136, Higgs Bosons
+18275, SubZero
+8642, 8 to Automate FTC
+20744, 24 Karat
+4969, Robot-X
+8581, Ædificatores
+10464, The Bionic Tigers
+11580, EagleBots
+14261, Wreck Less
+4360, Raider Robotics
+5040, Nuts & Bolts
+5754, Marburn Academy Marbotics
+13172, Centipede
+12802, We Will Bot You
+10084, Team Calamari
+16449, Juniper Robotics
+8719, Quantum Leap
+11187, AZTECHS FTC
+12768, INNOV-8
+19804, Unsafe At Any Speed
+20385, The Abundant Sheep
+14279, FLRC - Circuit Breakers
+7324, Oxymorons
+11781, MVS Rambotics
+16657, We Did Start the Fire

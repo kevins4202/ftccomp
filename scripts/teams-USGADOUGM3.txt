@@ -1,0 +1,13 @@
+8678, BATteries
+4327, Silver Titans
+17005, SAE Dragonbots
+12961, Checkmate
+11127, Whitefield Robotics
+7482, Axel-otls
+20172, Prometheus
+10458, EVE Robotics FTC
+12020, STEAMsport FTC Codebots 1 
+9785, Cronos
+12995, Monkey Wrench Robotics
+14750, ATOM
+21915, SMA Bobcats

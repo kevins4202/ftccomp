@@ -1,0 +1,40 @@
+8284, Soap Dispenser
+13523, Lady ROBO-RANGERS
+18908, Mighty Hawks
+13108, Encrypted
+12305, Ro-baddies
+21732, Cyber Knights
+12713, Impulse
+12448, M.A.R.S. - Patriot Engineering
+12401, Quantum Fusion - Patriot Engineering
+22320, ROGUE-RANGERS Vengeance
+22087, Bad 2 the Bone
+12373, Rowe-botic Problem
+13109, Team Koopa
+17229, The Scouts 
+18627, Collegiate NanoKnights
+15251, Hadron Mission Eagle
+20481, DHS T-STEM
+21730, Knights
+13269, Mustang MegaBytes
+18630, Collegiate MegaKnights
+21934, JLHS Engineering and Robotics 1
+11009, McHi Robodogs
+12395, Rattler Robotics
+13580, Tech Serpents
+12397, High Voltage Rattlers
+12696, SupernoVa - Patriot Engineering
+13512, Falcon ROBO-RANGERS
+4848, Chaos
+12393, Pioneer Pi-Thons
+12453, Phoenix - Patriot Engineering
+21935, JLHS Engineering and Robotics 2
+19857, GigaBots
+13265, Osiris
+13581, Fang Gang
+6892, The Waterboys
+12313, Hotdawgs
+13586, Adders
+13590, Viperstrike
+11158, Deceptibots
+21733, Kryptic Knights

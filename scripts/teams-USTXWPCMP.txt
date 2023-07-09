@@ -1,0 +1,36 @@
+10528, BOTS IN BLACK
+11986, Code Blue
+13948, Cathedral Robotics
+21856, J-Bots
+11719, Iron Hook
+13755, Robocat
+11720, PUROBOTS - 11720
+17977, Omni-Future
+19738, TI Robo TIGERS w/Fr3d
+19851, Cyber Moose
+15546, Monkey Mechanics
+4906, Junkyard Dawgs
+19955, Robo Rangers
+15592, T-Force
+14637, Aquanauts
+5470, Montwood Rambotics
+9362, Samurai Robotics
+16617, Nazareth Robotics
+17461, Trial & Error
+4921, The Dropouts
+15491, Venom Robotics
+10676, Lady Warbots
+21711, The McQueens
+9381, Hot Bots 
+12398, Bobcat Robotics
+11004, Cantina Crew
+4885, OmegaBotz
+18483, Buckar00s
+19779, M3tal Rebels
+18484, p0gg3r$
+4859, Westerner Mechnoblades
+14905, Bad Batch Bots
+9778, Robotic Chinchillas
+4886, Robo Junkies
+5911, Mean Green Machine
+13825, Westerner Cobots	

@@ -1,0 +1,36 @@
+7159, Robo Ravens
+17702, Transcendence
+3650, Torrey Techies
+19743, Definitely Human
+14140, Crash Test
+5015, Buffalo Wings
+11212, The Clueless 
+4216, Rise of Hephaestus
+15146, GarageBot
+16884, Mechanical Advantage
+18365, Dapper RoboNoodles
+12499, Gear Up
+11285, PATENT PENDING
+15171, Scorpio
+5131, Pointers
+8097, Botcats
+14535, Alpacas
+18263, HIGH VOLTAGE
+22105, Runtime Terror
+10809, Crow Force
+11128, Inspiration
+21303, Pandamonium
+10793, Voltrons
+8380, UC Robotics
+21239, All Systems Go
+19793, Uncaught Exception
+9164, Zorrobots
+4262, Ridgebots
+14338, CAOS Robotics ("Chaos")
+10092, Green.Griffins;
+18568, Minimum Viable Product
+6016, Ironwolves
+14496, Roboctopi
+14129, Wizalos
+1622, Team Spyder
+16192, Prepare to ALT+F4

@@ -1,0 +1,22 @@
+9848, GearView
+15458, Green Machine
+20244, Liberty Lions
+17186, Falcons
+20719, Paul VI Robotics II
+21852, I swear it worked last night
+6934, The TranSisters
+14237, CHS Pyrotechnics
+4936, Sparks
+7149, ENFORCERS
+9533, Bravenators
+17653, Lion's Pride
+6037, W.A.G.S. (We Are Girl Scouts) Robotics
+12365, MATES Robotics
+20204, Charging Pioneers
+18241, Outer Galaxy
+16139, The Martians
+11166, Big Red Robotics
+20205, Chaotic Pioneers
+21480, C3 Loco-Motors
+16740, Paul VI Robotics
+12441, C.V.T.D.

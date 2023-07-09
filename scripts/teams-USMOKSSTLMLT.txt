@@ -1,0 +1,25 @@
+16498, Plus Gang
+3592, The MESONS
+10265, Force Green
+10106, CBC Robotics
+19448, X BOTS
+3505, Cadet Bot Crew
+19838, Brute Force
+7951, The KAONS
+406, Boulson's Revenge
+12427, Bot of Steel
+5439, The GLUONS
+9905, Rampire
+5155, Ramifications
+11191, Red Vectors
+10588, The LUXONS
+14867, Cougar Bots
+5248, The FERMIONS
+11203, DURT (DeSmet Ultimate Robotics Team)
+6387, Brobots
+5095, The LEPTONS
+3591, The QUARKS
+3658, The BOSONS
+18118, Mindstorm Troopers
+5118, The HADRONS
+5119, The BARYONS

@@ -1,0 +1,22 @@
+8698, Guilford RoboVikings
+6199, Crash Test Dummies
+8709, Roosevelt High School 
+16033, Robo Wolves
+13193, Code Blue
+20196, Royal Robots
+6200, Despicable Machine 
+15321, Green Machine (CLS Robotics)
+19575, HCA Lions
+22139, Golden Gators (CLS Robotics)
+16971, TiGears(CLC Robotics)
+6198, Bread Admirers
+10505, Minivation
+5037, got robot?
+7715, Robotic Lions
+17023, Swamp Bots (CLS Robotics)
+5199, Duct Tape and a Prayer
+8907, Blue Box Bots
+18255, Stealth Robotics
+7627, Breaking Bot 7627
+12682, The Golden Ratio
+17301, Royal Rumble

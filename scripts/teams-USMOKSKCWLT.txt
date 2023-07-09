@@ -1,0 +1,26 @@
+6547, Cobalt Colts
+9808, Team Chargers
+21677, CTEC Cerberus
+20181, Shawnee Mission East Robotics
+14213, Nighthawks
+22325, SEK Robotics
+22363, Patton Junior High 1
+11908, GEAR
+10173, Ravonics Gemini
+9034, Mustangs 
+5422, Quioxte
+21392, ION Cats
+17210, Bionic Huskies
+21536, Team Stealth
+20391, Tungsten Tigers
+11457, STARbots
+9103, Ravonics Rover
+9102, Ravonics Orion
+14995, The Legion
+16225, The Button Bucks
+14959, Steel Wolves
+19996, Viking Robotics
+21692, Shawnee Mission East Robotics Two
+7095, S.T.O.R.M.
+14919, Circuit Breakers
+18415, The Hoplites

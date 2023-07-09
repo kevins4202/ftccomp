@@ -1,0 +1,31 @@
+13885, OJ Cyborioles
+6482, Red Storm Robotics-Red
+11317, Alpha Wolfpack 
+21622, Harrison Middle School
+17352, The Robotic Rangers
+11940, Cyber Coyotes
+9931, Northeast Viking Vendors
+21353, Red Arrow Robotics
+7772, P.A.N.T.H.E.R.S.
+22091, Crypto Coyotes
+16273, The BC PegaCyborgs
+20348, M.A.S.T.O.D.O.N.S.
+22313, CybOrioles Orange
+13335, Short Circuits
+20862, Eagle Robotics G.I.R.L.S.
+20245, Ultraviolet
+10645, Hornet Hackers
+5292, Red Storm Robotics-White
+10024, Twisted Devils Black
+20863, BIG Eagle Robotics
+19690, CCC Eagles
+7837, The Thunder Colts
+19429, Infrared
+16125, Marion Junior Eagle Engineers
+11616, Wire-Catz
+20377, Ludington Area Catholic MS 21
+20882, Flat River Academy Robotic Grizzlies
+20881, Lake City Bionic Trojans
+10255, RoboDux
+20033, Red Storm Robotics-Green
+17401, Junk Yard Dogs

@@ -1,0 +1,25 @@
+6210, ViperBots  Stryke
+20020, ScrewIt
+20250, Stampede
+7161, ViperBots Hydra
+16556, Steminists
+18030, ViperBots Leviathan
+19696, B.O.T.S.
+13329, Cedar Creek HS EagleBots 2
+8424, Cyber Eagles
+8886, Saber Robotics
+4545, ViperBots Ouroboros
+8541, Blue Chargerbots
+18244, Hestia
+22057, The Prototypes
+3708, Iron Eagles Optimus
+11918, Grizzly Bots
+21337, Dinobyte
+6272, Iron Eagles Prime
+12928, LightSaders
+19412, Archytas
+19452, Robocats
+16555, Deus ex Maquina
+6209, ViperBots Venom
+12126, Cedar Creek HS EagleBots 
+21816, Robo Eagles

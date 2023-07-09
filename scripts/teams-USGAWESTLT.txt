@@ -1,0 +1,28 @@
+8678, BATteries
+13245, Arcturus 
+19571, The Robo Brigade
+17005, SAE Dragonbots
+15173, Robotic Eagles
+21915, SMA Bobcats
+21183, Walton Robotics - RED
+4327, Silver Titans
+12864, Raiders of the ARC- Crimson
+10458, EVE Robotics FTC
+19987, Black Screen of Death
+1002, CircuitRunners Robotics - Surge
+12020, STEAMsport FTC Codebots 1 
+12995, Monkey Wrench Robotics
+14165, Pebblebrook OG Team
+17456, Atlantis
+20172, Prometheus
+10219, Batteries Not Included
+18009, AGS Eye of the Storm
+22581, Technologically Driven
+11347, CircuitRunners Robotics - Blackout
+21184, Walton Robotics - Blue
+12961, Checkmate
+11127, Whitefield Robotics
+7482, Axel-otls
+9686, Raiders of the ARC- Black
+14750, ATOM
+9785, Cronos

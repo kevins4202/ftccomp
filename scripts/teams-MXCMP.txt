@@ -1,0 +1,38 @@
+17755, ELECTRIC GEARS
+22322, BearsRobotics
+21837, DonkPink II
+22572, Tlaztec I
+22252, Devolt Ceres
+11140, Legacy HighPoint International School
+15909, Devolt Deimos
+22466, Rhinos UP!
+21741, XICALIBOTS
+20327, Kitsunics
+22569, AzTeam II
+22458, BEAVERS
+10793, Voltrons
+8327, Spartans
+22553, ARCADIA
+22728, JM RHINOS 
+16388, PrepaTec - Megabyte
+9164, Zorrobots
+18562, TecsAhoy
+16508, Minerva Legion
+21704, Lobos Negros
+17626, Aztech Robotics II
+21735, Nautilus
+21802, PrepaTec VOLTEC Robotics
+22372, PrepaTec - Resistors
+21678, THUNDER EAGLES
+22413, Tecmilenio Robotics
+22815, Taman Keet
+18341, MechRams
+22854, KVoltage
+21827, Sputnik
+12887, Devolt Phobos
+15600, CERBOTICS
+20746, Humanitree School
+21091, ILALBOTICS
+22842, Hype-Xolotls
+6584, Rhinos
+17625, Aztech Robotics I

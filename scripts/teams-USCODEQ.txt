@@ -1,0 +1,26 @@
+11308, YISE
+20514, CyberKnights
+5899, L.A.S.E.R.
+22250, Knightbots
+13835, Enigma
+17116, Hazardous Materials
+11561, The Headless Horsemen
+19746, The Disruptingly Robocephalic BrainSTEM Robotics Team
+14659, Pleiades Robotics
+15379, LionTech
+17969, MECH
+20077, The Indubitables
+3746, NECO Robo Knights
+21171, The Marvels of M12
+15403, Vision Robotics
+19564, The Marvels of MAS
+16010, Vamp Kings
+10448, Mach 5
+19970, Bearbotics Beta
+16253, BEAST Robotics
+22579, Space Alpacas
+7224, West Grand Robotics-Mechanical Mustangs 1.0
+17483, Blackout
+17111, Quack Attack
+6382, Wrench Monkeys
+5115, Rogue Resistors

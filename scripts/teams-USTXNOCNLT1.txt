@@ -1,0 +1,27 @@
+18871, RoboChargers - Purple
+17011, Mercenaries
+21743, AEYL - Mercenary Robotics
+22528, RoboChargers - Green
+17385, MCA Horsepower - Blue
+20483, Wall East
+13552, RoboChargers - Terremoto - Pink
+22418, RoboChargers - Red
+9386, Elmer and Elsie Robotics
+22419, RoboChargers - Orange
+13140, The P-51 Mustangs: Team Imagine
+12430, Dub East
+13142, The P-51 Mustangs: Team Innovate
+18121, MiT - Mercenaries in Training
+21171, The Marvels of M12
+21988, The Cybirds: Claw
+21446, Rogers Robots
+21683, Titan Robotics
+20482, Wylie E. Robote
+13141, The P-51 Mustangs: Team Inspire
+8204, Blue Machine
+13539, RoboChargers - Thunder - Yellow
+21987, The Cybirds: Talon
+13542, RoboChargers - Typhoon - Blue
+22527, RoboChargers - Cyan
+16272, Mark X
+17348, MCA Horsepower - Gold

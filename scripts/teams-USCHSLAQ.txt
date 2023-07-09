@@ -1,0 +1,28 @@
+6390, Falcons
+20127, Apollo's Architects
+13463, Wildecats
+21975, Energetic Engineers
+16270, Gaelstrom
+16605, YogicTransformers
+11695, DeJava
+7988, Brogrammers
+20343, R.I.P. (Robot in Pieces)
+5709, Gators
+20123, Cryptic
+21232, no team
+8194, Digi-Gators
+12718, Lions 
+14253, Magic School Bots
+11525, Minerva's Mechanics
+9338, Lightning Coalition Robotics
+21814, Robots on Roids
+22006, AstroNoughts
+20257, The Team That Shall Not Be Named
+8479, RoboCavs Gold
+18052, Perryville Robotics Gonkies
+16943, Zapdos
+11500, St. Mark Robotics
+19069, Ryken Robotics
+10719, Termigators
+10001, RoboCavs Silver
+21587, Orcas Robotics

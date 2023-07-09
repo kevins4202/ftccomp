@@ -1,0 +1,24 @@
+10851, WASA
+17978, Robo Kai (Fenwick)
+22483, OZoneJR7
+4537, DRSS Enterprise
+12056, Aves Ablaze
+5140, WACO Aerobotics
+3311, Innovators Robotics
+5501, VW Robotics
+13020, Golden Tiercelet
+20197, OZoneJR8
+14174, Cougar Robotics
+20116, Where's The Tape Measure? 
+4360, Raider Robotics
+9828, Ultron Unit 
+5754, Marburn Academy Marbotics
+12802, We Will Bot You
+16449, Juniper Robotics
+16284, 8 Bit Bandits
+11187, AZTECHS FTC
+14279, FLRC - Circuit Breakers
+12099, Stars of the Galaxy
+21874, DRSS Discovery
+11781, MVS Rambotics
+16657, We Did Start the Fire

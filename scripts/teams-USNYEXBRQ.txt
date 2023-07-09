@@ -1,0 +1,27 @@
+12833, Mechanical Meltdown
+22277, Deep Fried Wires
+17022, Middiebots
+6454, Saints Robotics
+12915, System Override
+6460, RoboWarriors
+6347, Nerds of a Feather
+11393, BraveBots
+12399, Mechanical Devils
+12870, ScottieBots
+14281, Ravena-Coeymans-Selkirk 
+16700, JAYBOTS
+20018, Berlin InvenTeam
+18773, Team Gambit
+7420, MechaSpartans
+4809, Botman
+10161, Fayetteville Free Library Suits
+6567, Roboraiders
+20807, Phoenix Robotics
+10475, The Spartan Bots
+8397, Beta
+21429, Golden Eagles
+14903, SharkBots
+11607, HazMatrix
+7486, Suffern Robotics
+6945, System Overload
+21428, Silver Eagles

@@ -1,0 +1,23 @@
+17280, Legacy Robotics - Stronghorns
+18815, LANV Logic
+18850, Kill Switch
+21535, Royal Ghostbusters
+11665, Iron Falcons
+12991, Awkward Silence
+14532, Splitting Atoms
+20253, Robotic Tigers
+18682, Cyber Nights
+3050, G-Bots
+16384, GREAT Bots
+18858, ARC - Blue
+14841, Mighty Meadowbots Blue Team
+21726, Laughlin Jr/Sr HS
+21787, ARC - White
+21517, High Maintenance (Sloan Canyon Robotics)
+12777, Boulder City SuperBots
+19792, Mighty Meadowbots Silver Team
+15884, Falcon Dynamics - Foothill HS
+15569, RoboRattlers
+21629, Central Technical Training Academy
+21794, Laughlin Jr/Sr HS 2
+15889, RoboDawgs

@@ -1,0 +1,30 @@
+16417, ROC
+22379, Riverdale Tech Runners
+19446, Team Titans Go
+22075, R.G.B.
+18846, Brebotics
+19531, Radiant Robotics
+16399, Quantum Robotics
+19498, Devolotics
+18158, The Futuristics
+21319, Falcon
+19486, RoboHawks
+19490, SMT Titans - The 'Tita'BOTS
+19836, Hawk
+16413, Lo-Ellen EDIT (RED)
+16397, Relatively Quantum   
+19491, Masked Gator
+21908, Eagle
+20261, Drive Gears
+20035, Cyber Barons
+22260, FrostByte
+20105, Lo-Ellen EDIT (GREY)
+19500, RoBEARtics
+16488, Rams Robotics
+16424, Atomic Dishwashers
+19721, Pigeons
+19530, The Thunderbirds
+18844, Pr0Teens
+22242, FTC BETA DOGS 
+16423, Storm
+16366, TFS Robotic Unicorns

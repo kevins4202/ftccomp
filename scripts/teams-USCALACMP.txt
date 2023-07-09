@@ -1,0 +1,42 @@
+21980, Bread Pandas
+11334, Alpha Tech
+11337, Robonauts
+6282, Simi Valley Robotics
+14996, Omega Squad
+9887, CyberDragons Marvinette
+7767, Blueprints
+18457, GatorBytes
+21380, Beyond Robotics
+11770, Curiosity
+7460, Thunder
+12675, Hermit Social Club
+14863, RGB
+16235, Judicator 
+19510, VolTech
+4625, Kings and Queens
+6325, Aluminati
+16795, Galaxy
+25, Rock N' Roll Robots
+4348, RoboKnights
+5218, Javabots
+12861, RoboHeroes
+9247, Chromium Robotics
+4628, Suit Bots
+13046, Riptide Robotics
+15091, aztec.exe
+21936, SaMoTech
+10298, Brain Stormz
+15046, Incognito Robotics
+21525, Blockheads²
+20824, LeXT - Pineapple Something
+21788, Beta Rocks
+3526, Marlbots
+16321, X Drive
+21982, Inkineers
+14295, Operation T.A.C.
+359, WEBB.exe
+17600, MoVal Robotics
+6373, SuperBots
+4153, Neptune
+6436, AlphaGenesis
+9040, STEAMpunks Alpha

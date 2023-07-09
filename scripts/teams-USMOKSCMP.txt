@@ -1,0 +1,37 @@
+6547, Cobalt Colts
+7961, MotorDame
+9808, Team Chargers
+16309, Stealth Panther Robotics FTC 
+16498, Plus Gang
+4193, Those Guys
+10265, Force Green
+18292, The Dysfunctionals
+20323, Sigma
+21677, CTEC Cerberus
+13737, Belton Cyber Pirates
+17637, Z-Botz
+21225, Shear Force
+13399, Belton Cyber Pirates
+17206, BuzzbotFTC1
+2867, Degrees of Freedom, Pattonville High School
+7525, Nerdy Birds
+9856, Spaghettified
+8136, Fire and Ice
+3409, Astromechs
+6168, Maniacal Mechanics
+7678, Eldon Gearheads Maroon Team
+10588, The LUXONS
+11514, Nexus
+13092, Central Processing Units
+9102, Ravonics Orion
+10868, Roboteers Cadets
+5893, Direct Current
+14186, P3
+4982, Cafe Bot
+288, Spare Parts
+16708, Redneck Engineering
+19996, Viking Robotics
+3658, The BOSONS
+7532, The Core in Blue
+13312, The Bombers
+5119, The BARYONS

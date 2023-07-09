@@ -1,0 +1,19 @@
+9848, GearView
+17377, Pennsauken Robotics
+15458, Green Machine
+17186, Falcons
+20719, Paul VI Robotics II
+17036, Robotech Anomaly
+7149, ENFORCERS
+22050, Pirate Robotics
+14498, Robotech Warriors
+9533, Bravenators
+6037, W.A.G.S. (We Are Girl Scouts) Robotics
+20204, Charging Pioneers
+13747, Techtronic Challengers
+18241, Outer Galaxy
+20205, Chaotic Pioneers
+21480, C3 Loco-Motors
+16740, Paul VI Robotics
+5387, TecHounds
+12441, C.V.T.D.

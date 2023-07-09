@@ -1,0 +1,12 @@
+20233, Blazing Bluebots
+21377, Botsworth
+14212, Metrobotics
+17522, ETech Chargers
+22324, ETech Spare Parts
+16798, Redhawk Robotics
+8500, The Generals
+11943, The Nighthawks
+15580, Robo-Synthesis
+10539, Ultro
+14413, Trinity Tigers
+18657, AIM Robotics

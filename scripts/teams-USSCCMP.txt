@@ -1,0 +1,24 @@
+22534, Area 52.1
+22199, ACE Basin Roboticist
+11444, Garnet Squadron
+3641, PPS Robotics
+10021, The Red Legion
+11454, Penguineers
+9121, Falcon Force
+753, The GreenVillains
+772, Golden Govies
+327, The Lobotomists
+11841, STEAM Punks
+15296, Mighty Trojans
+673, Subatomic Tomahawks
+18069, Java Dragons
+7021, RoboEagles
+18984, Hurricanes505
+13900, Iron Horses
+12517, Robo-Zombies
+17621, Sea Dawgs
+208, Runic Robotics
+18308,  Team RocketForge
+15773, Robodogs
+22972, White Rice 
+13661, Cygons (Cyborg Dragons)

@@ -1,0 +1,18 @@
+6210, ViperBots  Stryke
+20020, ScrewIt
+20716, BeauBots
+7161, ViperBots Hydra
+7079, FalTech
+18030, ViperBots Leviathan
+14363, CPHS ROBOLOBOS WHITE
+16311, ViperBots Recoil
+11093, MegaKnytes
+6209, ViperBots Venom
+11503, ViperBots HyperFang
+12596, ViperBots Copperhead
+6299, ViperBots QuadX
+14361, CPHS ROBOLOBOS GREEN
+21323, TrinityBots
+4545, ViperBots Ouroboros
+21816, Robo Eagles
+4546, ViperBots SnakeByte

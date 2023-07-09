@@ -1,0 +1,33 @@
+13347, Project Home Robotics Team
+21680, Friends Select
+5321, TechHeroes
+16664, GenBots
+22280, Into the SLAMmer
+22245, RoboLancers Kale
+5488, Robo Dragons
+5320, RoboLancers Gold
+6676, RoboLancers Crimson
+8480, Technabots
+7883, Iron Patriots
+16941, RoboLancers Cobalt
+22285, SLAM SHADY
+6606, Dobbins Force
+9854, Penn Charter Robotics
+22247, RoboLancers Pumpkin
+19688, Simply Machines
+22284, SLAM GREG
+14738, Theoretically Correct
+22246, RoboLancers Aubergine
+4914, SCH FTC XCalibur
+12308, Bodine Ambassadors
+22283, SLAM DUNK
+22279, SLAMtastic Squirrels
+8730, Robogriffins
+21864, Wire Clippers
+22281, SLAMMMD
+22282, SLAMPHIBIANS
+9570, GearGirls
+6552, Northeast High School
+16800, Trial and Terror
+6540, Railsplitters
+11493, Eclipse

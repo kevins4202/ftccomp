@@ -1,0 +1,31 @@
+6482, Red Storm Robotics-Red
+22368, Powerful Pumas
+15815, DCS Defender Robotics
+15397, Power Raiders
+5980, Titanium Tech Vikes
+12845, THE METEORS
+7792, Q^2
+21353, Red Arrow Robotics
+7772, P.A.N.T.H.E.R.S.
+22154, Wayland Wildcat Cat-a-Ton-o-Mous
+13754, Q^3
+10031, Red Storm Robotics-Blue
+8027, Twisted Devils Blue
+5383, Neutrinos Breaking the Laws of Physics
+20348, M.A.S.T.O.D.O.N.S.
+5384, Emergency Situation Evacuate Now
+21906, Red Storm Robotics-Gold
+10104, That OTHER Team
+5292, Red Storm Robotics-White
+10024, Twisted Devils Black
+22192, Servo Soldiers
+17283, Red Storm Robotics-Gray
+11228, OverClucked Bots
+18975, RoboSquires
+11999, Wyoming Little Demons
+5385, Enigma Riddlers
+15547, Birds of Power
+21789, Bots of the North
+20033, Red Storm Robotics-Green
+11846, Wayland Wildcat Cat-a-Tech-Nics
+9087, Twisted Devils Green

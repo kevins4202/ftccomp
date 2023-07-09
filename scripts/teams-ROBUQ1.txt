@@ -1,0 +1,76 @@
+20972, VOLTA CIRCUITS
+21097, Dragonfly
+19092, ICLASS 
+19088, BROBOTS
+19095, WireImpulse
+20691, Andromeda
+19081, Bots' Brain
+19066, AiCitizensRO160
+19211, VirtualWolvesRO165
+21028, The Eagles RO143
+15993, infO(1)Robotics
+21169, CyberLions
+19098, Eastern Foxes
+19100, Future Tech
+19060, InfinityEdge
+17857, Gentlemen
+19257, UNplugged188
+19112, RO112 UNDEFINED
+20131, The Inventors
+19152, Brainstorms
+17713, Delta Force
+19048, ROBOPAPIU
+14270, Quantum Robotics
+19067, BIONIC ROYALS
+19093, Infinity Bolts 
+19105, DecebalTech
+19058, Modus Vivendi
+19147, Blizzard Eye
+19083, North East Dynamics
+19059, ArtRobotix
+19090, TEHROCUZ RO 067
+19064, Dragonic Force
+19139, Snake-Tech40
+19256, CYBERMOON093
+19052, Trojan.EXE
+20925, HYPERCUBE
+22114, TeoretiKa
+21050, MasterMinds
+20936, ET.CNSCM
+20957, Motion Bot
+19234, BYTE FORCE
+17861, CSH
+21073, November Eleven
+22017, Eu codez
+13906, Epiteugma Revved Up
+21030, MasterBots
+21071, SkyLine
+19131, Evolution
+17869, ERcast2020
+21455, RoSophia
+20912, Harambe Cartel
+19043, CyLiis
+19148, StefTech
+19121, Tea Borgs
+16000, Gear Maniacs
+18026, SGBOTS
+15996, BrickBot
+19068, ABSO-TECH
+5843, AutoVortex
+19087, MironoBot
+19096, DanubeRobotics
+17873, VECTRON
+20954, STIM DC
+19101, Tech-X
+20965, BIT-MO
+21476, ViCyber
+19141, BraveBots
+20974, Hardwired
+19044, Peppers
+20237, LTCDMNrobotics
+19106, Dark Energy
+19075, Clockworks
+17962, Ro2D2
+20880, RoboGraphed
+19084, SovaTech
+22018, Orion Robotix

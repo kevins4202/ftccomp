@@ -1,0 +1,24 @@
+19921, Space Invaders
+21501, Ohms
+21734, Till the Wheels Fall Off
+5270, Q
+11528, Bots of Prey
+22733, Ghost
+8569, RoboKnights
+21724, Pitt Parrots
+12010, ChargerBots
+15680, Techno Tigers
+21836, Marvels of IAR
+12828, Critical Overload
+9076, Sketchy Engineering
+20434, Binding Energy
+3916, Apex Robotics
+16447, Mechanical Maniacs
+7083, TundraBots
+3587, Unparalleled Processing
+9581, Automated Admiralty
+13735, ∏∆S (PiRates)
+11588, Carpe Diem
+22377, SigmaCorns
+2827, Artificial Stupidity
+2901, Purple Gears

@@ -1,0 +1,37 @@
+15290, RoboKnights 15290
+16632, RackenPigeons
+18553, Trash Pandas
+22, 100 Scholars
+18556, The Outlets
+14471, Narly Narwhals
+18554, Lilac Leopards
+19899, Walker - Information Overload[2]
+14100, High Voltage
+19998, Señor Gato 
+16631, The Preppy Ponies
+14468, Dragons
+16633, Bots in Black
+16282, Bot Bytes the Rust
+15156, Botters Bots Club
+16345, Walker - Uncommon Sense
+12687, The Screwdrivers
+18560, Warbotics - 1655
+525, Success
+14116, Walker - Information Overload
+12689, The Sparks
+14821, Team Rocket
+16838, Walker - NerdZ
+18520, CKSROBOTICS
+18557, The Operators
+14470, Cascade Robotics
+14101, GigaBots
+22023, System Overload Surgeons
+16344, Walker - Bob The Builder
+6989, Spartans
+16906, Cristo Rey Flames II - Kingsfield
+4232, Energizer Bunnies
+112, RoboKnights Team 112
+16346, Walker - The Notorious B.O.T.
+12694, Autopilot
+15292, RoboKnights Team 15292
+21628, CKSROBOTICS2
